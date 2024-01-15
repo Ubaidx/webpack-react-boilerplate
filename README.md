@@ -8,6 +8,7 @@
 
 ## Announcements
 
+- Tailwind : [Tailwindcss Tutorial] (https://github.com/lxieyang/chrome-extension-boilerplate-react/issues/39)
 - Recently updated from **[React](https://reactjs.org)** ~~17~~ to **18**!
 - **_This boilerplate adopts [Manifest V3](https://developer.chrome.com/docs/extensions/mv3/intro/mv3-overview/)!_**
   - For V2 users, please check out the [manifest-v2](https://github.com/lxieyang/chrome-extension-boilerplate-react/tree/manifest-v2) branch, or use version [3.x](https://www.npmjs.com/package/chrome-extension-boilerplate-react/v/3.3.0).
